@@ -4,4 +4,3 @@
 #Author: Ding Junying
 #Function: Organize ICBC's money transfer record
 
-print('ABC')
